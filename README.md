@@ -15,3 +15,33 @@ A simple app made while following the course. Demonstrating familiarity with the
 >
 > 7. Simple navigation of screens and passage of data
 ## How the app looks and works
+
+### Loading while app starts up to fetch data from backend
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Add_Loading.jpg"/>
+</p>
+
+### Emoty Init Screen
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Init_Screen.jpg"/>
+</p>
+
+### Form Validation
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Add_Loading.jpg"/>
+</p>
+
+### Loading while adding item 
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Add_Loading.jpg"/>
+</p>
+
+### Non Empty List
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Item_Added.jpg"/>
+</p>
+
+### Dismissable (For Deletion)
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Dismissable.jpg"/>
+</p>
