@@ -16,7 +16,7 @@ A simple app made while following the course. Demonstrating familiarity with the
 > 7. Simple navigation of screens and passage of data
 ## How the app looks and works
 
-### Loading while app starts up to fetch data from backend
+### Loading as app starts up to fetch data from backend
 <p align="center">
   <img src="https://github.com/iamsuteerth/Grocery-List/blob/main/demo_images/Init_Loading.jpg"/>
 </p>
